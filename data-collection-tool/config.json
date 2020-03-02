@@ -1,9 +1,7 @@
 {
-    "name": "TTRIS Test Data Collection Tool",
+    "name": "TTRIS Data Collection Tool",
     "id_field": "pid",
     "codebook": "codebook.csv",
     "table": "TTRIS",
-    "page_size": 100,
-    "public-url": "/test/test/",
-    "config-path": "~/projects/ttris/data-collection-tool/"
+    "page_size": 100
 }
